@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergi\\source\\repos\\RadioApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58BDC36F-7550-4C37-9341-BEE9F6B3D624}|RadioApp\\RadioApp.csproj|c:\\users\\sergi\\source\\repos\\radioapp\\radioapp\\radioapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BDC36F-7550-4C37-9341-BEE9F6B3D624}|RadioApp\\RadioApp.csproj|solutionrelative:radioapp\\radioapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BDC36F-7550-4C37-9341-BEE9F6B3D624}|RadioApp\\RadioApp.csproj|c:\\users\\sergi\\source\\repos\\radioapp\\radioapp\\radioapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{58BDC36F-7550-4C37-9341-BEE9F6B3D624}|RadioApp\\RadioApp.csproj|solutionrelative:radioapp\\radioapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BDC36F-7550-4C37-9341-BEE9F6B3D624}|RadioApp\\RadioApp.csproj|c:\\users\\sergi\\source\\repos\\radioapp\\radioapp\\imagestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BDC36F-7550-4C37-9341-BEE9F6B3D624}|RadioApp\\RadioApp.csproj|solutionrelative:radioapp\\imagestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BDC36F-7550-4C37-9341-BEE9F6B3D624}|RadioApp\\RadioApp.csproj|c:\\users\\sergi\\source\\repos\\radioapp\\radioapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BDC36F-7550-4C37-9341-BEE9F6B3D624}|RadioApp\\RadioApp.csproj|solutionrelative:radioapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RadioApp",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\RadioApp\\RadioApp\\RadioApp.csproj",
+              "RelativeDocumentMoniker": "RadioApp\\RadioApp.csproj",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\RadioApp\\RadioApp\\RadioApp.csproj",
+              "RelativeToolTip": "RadioApp\\RadioApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T00:24:09.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\RadioApp\\RadioApp\\Program.cs",
+              "RelativeDocumentMoniker": "RadioApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\RadioApp\\RadioApp\\Program.cs",
+              "RelativeToolTip": "RadioApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:08:33.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageStream.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\RadioApp\\RadioApp\\ImageStream.cs",
+              "RelativeDocumentMoniker": "RadioApp\\ImageStream.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\RadioApp\\RadioApp\\ImageStream.cs",
+              "RelativeToolTip": "RadioApp\\ImageStream.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:07:43.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RadioApp.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\RadioApp\\RadioApp\\RadioApp.cs",
+              "RelativeDocumentMoniker": "RadioApp\\RadioApp.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\RadioApp\\RadioApp\\RadioApp.cs",
+              "RelativeToolTip": "RadioApp\\RadioApp.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwE8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:05:17.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
